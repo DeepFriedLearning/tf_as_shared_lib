@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/tf_as_shared_lib.dir/main.cpp.o  -o tf_as_shared_lib  -L/home/hal9000/Sources/tensorflow/bazel-bin/tensorflow 
